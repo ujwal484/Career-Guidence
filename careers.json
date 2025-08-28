@@ -1,0 +1,249 @@
+[
+  {
+    "career": "Data Analyst",
+    "otherTitles": ["Business Intelligence Analyst", "Reporting Analyst", "Marketing Analyst"],
+    "description": "Transform raw data into understandable reports and dashboards to help businesses make informed decisions, identify trends, and measure performance.",
+    "skills": ["Python", "R", "SQL", "Excel", "Power BI", "Tableau", "Statistics"],
+    "interests": ["AI", "Finance", "Business", "Marketing", "Storytelling"],
+    "prerequisites": ["Basic math & logic", "Problem-solving skills", "Curiosity about data"],
+    "jobMarketDemand": "High",
+    "salaryRange": {
+      "entry": "$55,000 - $70,000",
+      "mid": "$75,000 - $95,000",
+      "senior": "$100,000 - $125,000+"
+    },
+    "certifications": ["Google Data Analytics Professional Certificate", "Microsoft Certified: Power BI Data Analyst Associate"],
+    "roadmap": {
+      "Beginner": ["Learn Excel (Pivot Tables, VLOOKUP)", "Learn basic SQL for querying databases", "Understand basic statistics (mean, median, distribution)"],
+      "Intermediate": ["Master a visualization tool (Power BI/Tableau)", "Learn Python basics and Pandas for data manipulation", "Complete a full project: data cleaning, analysis, visualization"],
+      "Advanced": ["Learn advanced SQL (window functions, CTEs)", "Understand version control (Git)", "Develop domain expertise (e.g., Finance, Healthcare)"]
+    },
+    "resources": [
+      {"title": "Google Data Analytics Certificate", "link": "https://www.coursera.org/professional-certificates/google-data-analytics"},
+      {"title": "SQLBolt (Learn SQL)", "link": "https://sqlbolt.com/"},
+      {"title": "Kaggle Micro-Courses", "link": "https://www.kaggle.com/learn"}
+    ]
+  },
+  {
+    "career": "Machine Learning Engineer",
+    "otherTitles": ["AI Engineer", "ML Developer"],
+    "description": "Design, build, and deploy production-ready machine learning systems and models that can scale to handle real-world data.",
+    "skills": ["Python", "Machine Learning", "Deep Learning", "TensorFlow/PyTorch", "SQL", "MLOps", "Cloud (AWS/GCP/Azure)"],
+    "interests": ["AI", "Automation", "Software Engineering", "Research"],
+    "prerequisites": ["Strong programming (Python)", "Linear Algebra", "Calculus", "Probability & Statistics"],
+    "jobMarketDemand": "Very High",
+    "salaryRange": {
+      "entry": "$95,000 - $120,000",
+      "mid": "$120,000 - $150,000",
+      "senior": "$160,000 - $250,000+"
+    },
+    "certifications": ["AWS Certified Machine Learning - Specialty", "Google Professional Machine Learning Engineer"],
+    "roadmap": {
+      "Beginner": ["Master Python and key libraries (NumPy, Pandas)", "Learn core math concepts (Linear Algebra, Calculus, Stats)", "Complete an Intro to ML course (e.g., Andrew Ng)"],
+      "Intermediate": ["Build ML models with Scikit-learn", "Learn Deep Learning with TensorFlow/PyTorch", "Work on end-to-end projects (data to deployed model)"],
+      "Advanced": ["Learn MLOps tools (Docker, Kubernetes, MLflow)", "Master cloud platforms for ML (SageMaker, Vertex AI)", "Study advanced topics like NLP or Computer Vision"]
+    },
+    "resources": [
+      {"title": "Coursera: Machine Learning by Andrew Ng", "link": "https://www.coursera.org/learn/machine-learning"},
+      {"title": "Fast.ai (Practical Deep Learning)", "link": "https://www.fast.ai/"},
+      {"title": "Hugging Face Course", "link": "https://huggingface.co/course/"}
+    ]
+  },
+  {
+    "career": "Data Scientist",
+    "otherTitles": ["Applied Scientist", "Research Scientist", "ML Scientist"],
+    "description": "Extract insights and build predictive models from complex data using advanced statistical and machine learning techniques, often focused on R&D.",
+    "skills": ["Python", "R", "SQL", "Statistics", "Machine Learning", "Data Visualization", "Experimental Design"],
+    "interests": ["AI", "Research", "Problem-Solving", "Mathematics"],
+    "prerequisites": ["Strong Statistics", "Programming", "Linear Algebra", "Critical Thinking"],
+    "jobMarketDemand": "High",
+    "salaryRange": {
+      "entry": "$85,000 - $110,000",
+      "mid": "$115,000 - $145,000",
+      "senior": "$150,000 - $220,000+"
+    },
+    "certifications": ["None are strictly required (portfolio is key)", "IBM Data Science Professional Certificate (for beginners)"],
+    "roadmap": {
+      "Beginner": ["Learn Python for Data Science (Pandas, NumPy, Matplotlib)", "Solidify understanding of Probability & Inferential Statistics", "Learn to tell stories with data"],
+      "Intermediate": ["Master machine learning theory and application", "Learn advanced SQL and database interaction", "Develop strong business acumen to frame problems"],
+      "Advanced": ["Design and analyze A/B tests", "Explore Big Data tools (Spark, Hadoop)", "Publish findings or build a strong portfolio of complex projects"]
+    },
+    "resources": [
+      {"title": "Kaggle Learn", "link": "https://www.kaggle.com/learn"},
+      {"title": "DataCamp", "link": "https://www.datacamp.com/"},
+      {"title": "RealPython (Tutorials)", "link": "https://realpython.com/"}
+    ]
+  },
+  {
+    "career": "Data Engineer",
+    "otherTitles": ["Big Data Engineer"],
+    "description": "Design, construct, and maintain the large-scale data infrastructure (data pipelines, warehouses, lakes) that enables data analysis and science.",
+    "skills": ["Python", "Java/Scala", "SQL", "Apache Spark", "Kafka", "Cloud Platforms", "Data Warehousing (Snowflake, Redshift)", "Airflow"],
+    "interests": ["Software Engineering", "Big Data", "Infrastructure", "Scalability"],
+    "prerequisites": ["Strong Software Engineering Fundamentals", "Database Knowledge", "Proficiency in a JVM Language (Java/Scala) is a plus"],
+    "jobMarketDemand": "Very High",
+    "salaryRange": {
+      "entry": "$90,000 - $115,000",
+      "mid": "$120,000 - $150,000",
+      "senior": "$155,000 - $220,000+"
+    },
+    "certifications": ["Google Cloud Professional Data Engineer", "AWS Certified Data Analytics - Specialty"],
+    "roadmap": {
+      "Beginner": ["Master SQL and database fundamentals", "Learn Python and its ecosystem", "Understand data modeling and warehousing concepts"],
+      "Intermediate": ["Learn a Big Data processing framework (Apache Spark)", "Master a cloud platform (AWS, GCP, Azure)", "Learn workflow orchestration (Apache Airflow, Prefect)"],
+      "Advanced": ["Build scalable, fault-tolerant data pipelines", "Deep dive into stream processing (Kafka, Flink)", "Specialize in a domain like FinTech or AdTech"]
+    },
+    "resources": [
+      {"title": "Data Engineering Zoomcamp", "link": "https://github.com/DataTalksClub/data-engineering-zoomcamp"},
+      {"title": "AWS Big Data Blog", "link": "https://aws.amazon.com/blogs/big-data/"}
+    ]
+  },
+  {
+    "career": "Frontend Developer",
+    "otherTitles": ["UI Developer", "Web Developer", "Frontend Engineer"],
+    "description": "Specialize in building the visible, interactive parts of a website or application that users interact with directly.",
+    "skills": ["HTML", "CSS", "JavaScript", "React/Angular/Vue", "Responsive Design", "Web Performance", "Accessibility"],
+    "interests": ["Web Development", "Design", "User Experience (UX)", "Creativity"],
+    "prerequisites": ["Logical Thinking", "An eye for design/layout", "Patience for debugging"],
+    "jobMarketDemand": "High",
+    "salaryRange": {
+      "entry": "$60,000 - $75,000",
+      "mid": "$80,000 - $110,000",
+      "senior": "$115,000 - $160,000+"
+    },
+    "certifications": ["Meta Front-End Developer Professional Certificate", "FreeCodeCamp Front End Libraries Certification"],
+    "roadmap": {
+      "Beginner": ["Learn core web technologies: HTML, CSS, JavaScript", "Build simple static websites", "Learn Git and GitHub"],
+      "Intermediate": ["Master a modern framework (React is most popular)", "Learn state management, APIs, and routing", "Focus on responsive design and accessibility (a11y)"],
+      "Advanced": ["Learn testing (Jest, Cypress)", "Optimize for web performance and SEO", "Explore full-stack basics and TypeScript"]
+    },
+    "resources": [
+      {"title": "FreeCodeCamp", "link": "https://www.freecodecamp.org/"},
+      {"title": "Frontend Mentor (Project Ideas)", "link": "https://www.frontendmentor.io/"},
+      {"title": "MDN Web Docs", "link": "https://developer.mozilla.org/"}
+    ]
+  },
+  {
+    "career": "Backend Developer",
+    "otherTitles": ["API Developer", "Server-Side Developer"],
+    "description": "Build and maintain the server-side logic, databases, and APIs that power the frontend of web and mobile applications.",
+    "skills": ["Java", "Python", "JavaScript (Node.js)", "Go", "REST/GraphQL APIs", "SQL/NoSQL Databases", "Caching", "Docker"],
+    "interests": ["Web Development", "APIs", "Databases", "System Architecture", "Problem-Solving"],
+    "prerequisites": ["Strong understanding of a programming language", "Basic knowledge of how the internet works (HTTP, protocols)"],
+    "jobMarketDemand": "High",
+    "salaryRange": {
+      "entry": "$70,000 - $90,000",
+      "mid": "$95,000 - $130,000",
+      "senior": "$135,000 - $180,000+"
+    },
+    "certifications": ["AWS Certified Developer - Associate"],
+    "roadmap": {
+      "Beginner": ["Master a backend language (e.g., Python, Java, Node.js)", "Learn about RESTful API design principles", "Understand relational databases and SQL"],
+      "Intermediate": ["Learn a web framework (e.g., Django, Spring Boot, Express.js)", "Explore authentication and authorization (OAuth, JWT)", "Work with NoSQL databases (MongoDB, Redis)"],
+      "Advanced": ["Master system design and architecture patterns", "Learn about containers and orchestration (Docker, Kubernetes)", "Implement monitoring, logging, and testing strategies"]
+    },
+    "resources": [
+      {"title": "Roadmap.sh - Backend", "link": "https://roadmap.sh/backend"},
+      {"title": "Design Patterns", "link": "https://refactoring.guru/design-patterns"}
+    ]
+  },
+  {
+    "career": "DevOps Engineer",
+    "otherTitles": ["Site Reliability Engineer (SRE)", "Platform Engineer"],
+    "description": "Bridge the gap between development and IT operations by automating and streamlining software delivery and infrastructure changes.",
+    "skills": ["Linux", "Scripting (Bash/Python)", "Docker", "Kubernetes", "CI/CD (Jenkins, GitLab CI)", "Cloud (AWS/GCP/Azure)", "Infrastructure as Code (Terraform)"],
+    "interests": ["Automation", "Cloud Computing", "Systems", "Scalability", "Problem-Solving"],
+    "prerequisites": ["Basic Software Development Lifecycle knowledge", "Familiarity with Command Line (Linux)"],
+    "jobMarketDemand": "Very High",
+    "salaryRange": {
+      "entry": "$80,000 - $100,000",
+      "mid": "$110,000 - $140,000",
+      "senior": "$145,000 - $200,000+"
+    },
+    "certifications": ["AWS Certified DevOps Engineer - Professional", "CKA: Certified Kubernetes Administrator"],
+    "roadmap": {
+      "Beginner": ["Master Linux fundamentals and Bash scripting", "Learn a programming language (Python/Go)", "Understand networking and security basics"],
+      "Intermediate": ["Learn core DevOps tools: Git, CI/CD, Docker", "Master a cloud provider (AWS is a great start)", "Learn Infrastructure as Code (Terraform or CloudFormation)"],
+      "Advanced": ["Master container orchestration (Kubernetes)", "Implement advanced monitoring and logging (Prometheus, ELK)", "Design and manage highly available and secure systems"]
+    },
+    "resources": [
+      {"title": "Kubernetes Docs", "link": "https://kubernetes.io/docs/home/"},
+      {"title": "Terraform Learn", "link": "https://learn.hashicorp.com/terraform"},
+      {"title": "DevOps Roadmap", "link": "https://roadmap.sh/devops"}
+    ]
+  },
+  {
+    "career": "Cloud Engineer",
+    "otherTitles": ["Cloud Architect", "Cloud Solutions Architect", "Cloud Developer"],
+    "description": "Design, plan, and manage an organization's cloud computing strategy, including infrastructure, services, and deployment.",
+    "skills": ["Cloud Platforms (AWS/Azure/GCP)", "Networking", "Security", "Linux", "Scripting", "Containers", "Infrastructure as Code (Terraform)"],
+    "interests": ["Cloud Computing", "Networking", "Security", "Architecture"],
+    "prerequisites": ["Understanding of general IT concepts", "Basic networking knowledge", "Familiarity with an operating system (Linux/Windows)"],
+    "jobMarketDemand": "Very High",
+    "salaryRange": {
+      "entry": "$75,000 - $95,000",
+      "mid": "$100,000 - $135,000",
+      "senior": "$140,000 - $200,000+"
+    },
+    "certifications": ["AWS Certified Solutions Architect - Associate", "Microsoft Certified: Azure Administrator Associate"],
+    "roadmap": {
+      "Beginner": ["Learn cloud fundamentals and core services (Compute, Storage, Networking)", "Get an entry-level cloud certification (e.g., AWS Cloud Practitioner)", "Learn basic Linux administration and networking"],
+      "Intermediate": ["Master a primary cloud platform in-depth", "Learn Infrastructure as Code (Terraform)", "Understand cloud security and compliance best practices"],
+      "Advanced": ["Get a professional/architect-level certification", "Design highly available, cost-effective, and scalable cloud infrastructures", "Specialize in a domain like security, networking, or data"]
+    },
+    "resources": [
+      {"title": "A Cloud Guru", "link": "https://acloudguru.com/"},
+      {"title": "AWS Well-Architected Framework", "link": "https://aws.amazon.com/architecture/well-architected/"}
+    ]
+  },
+  {
+    "career": "Cybersecurity Analyst",
+    "otherTitles": ["SOC Analyst", "Information Security Analyst", "Threat Analyst"],
+    "description": "Protect an organization's computer systems and networks by monitoring, detecting, investigating, and responding to security threats.",
+    "skills": ["Network Security", "SIEM Tools", "Incident Response", "Threat Intelligence", "Python/Bash Scripting", "Operating Systems"],
+    "interests": ["Security", "Hacking", "Investigation", "Problem-Solving", "Continuous Learning"],
+    "prerequisites": ["Strong understanding of networking", "Knowledge of operating systems (Windows/Linux)", "Curiosity and a defensive mindset"],
+    "jobMarketDemand": "Very High",
+    "salaryRange": {
+      "entry": "$65,000 - $85,000",
+      "mid": "$90,000 - $120,000",
+      "senior": "$125,000 - $165,000+"
+    },
+    "certifications": ["CompTIA Security+", "Certified Ethical Hacker (CEH)", "GIAC Security Essentials (GSEC)"],
+    "roadmap": {
+      "Beginner": ["Learn networking fundamentals (TCP/IP, OSI model)", "Understand core security principles and threats", "Get CompTIA Security+ certified"],
+      "Intermediate": ["Gain hands-on experience with SIEM tools (Splunk, Elastic)", "Learn about incident response and digital forensics", "Practice in controlled environments (TryHackMe, HackTheBox)"],
+      "Advanced": ["Specialize in a area like penetration testing, cloud security, or forensics", "Obtain advanced certifications (CISSP, CySA+)", "Lead threat hunting and security architecture initiatives"]
+    },
+    "resources": [
+      {"title": "TryHackMe", "link": "https://tryhackme.com/"},
+      {"title": "Cybrary", "link": "https://www.cybrary.it/"},
+      {"title": "SANS Reading Room", "link": "https://www.sans.org/reading-room/"}
+    ]
+  },
+  {
+    "career": "UX/UI Designer",
+    "otherTitles": ["Product Designer", "Interaction Designer", "User Researcher"],
+    "description": "Create user-centered designs by understanding user needs, designing the user journey (UX), and crafting the visual style and interface (UI).",
+    "skills": ["User Research", "Wireframing", "Prototyping", "UI Design (Figma/Sketch)", "Usability Testing", "Information Architecture"],
+    "interests": ["Design", "Psychology", "User Experience", "Creativity", "Problem-Solving"],
+    "prerequisites": ["Empathy for users", "Good visual taste", "Communication skills"],
+    "jobMarketDemand": "High",
+    "salaryRange": {
+      "entry": "$65,000 - $80,000",
+      "mid": "$85,000 - $110,000",
+      "senior": "$115,000 - $150,000+"
+    },
+    "certifications": ["Google UX Design Professional Certificate"],
+    "roadmap": {
+      "Beginner": ["Learn design principles (typography, color, layout)", "Master a design tool (Figma is industry standard)", "Understand the basics of user research"],
+      "Intermediate": ["Build a portfolio with case studies (show your process)", "Learn to create wireframes, prototypes, and high-fidelity mockups", "Conduct usability tests and iterate on designs"],
+      "Advanced": ["Specialize in a area like interaction design, research, or UX writing", "Learn about accessibility (a11y) guidelines", "Work closely with product managers and developers"]
+    },
+    "resources": [
+      {"title": "Interaction Design Foundation", "link": "https://www.interaction-design.org/"},
+      {"title": "Nielsen Norman Group Articles", "link": "https://www.nngroup.com/articles/"},
+      {"title": "Figma Learn", "link": "https://www.figma.com/resources/learn/"}
+    ]
+  }
+]
